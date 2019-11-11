@@ -1,0 +1,96 @@
+1 PRIMERA LINEAAAAA
+2
+3
+4
+5
+6
+7
+8
+9
+l1sad
+sad
+dsa
+das
+dassdsd
+sa
+sa
+d
+sava
+v
+as
+c
+ac
+acaca
+acareag
+arg
+wtvwtv
+wtvy
+byzxcxc
+cczxzcx
+zxzcx
+vzxvvx
+vxvxs
+;LAYER:53
+;TYPE:FILL
+;MESH:LilCNC_x12mmLinearBearingSleeve_ACv3_x1.stl
+G1 F2700 E1230.76332
+G1 F390 X92.285 Y55.058 E1230.83703
+G1 X92.355 Y54.988
+G0 F7200 X94.235 Y55.058
+G1 F390 X90.822 Y58.471 E1230.99756
+G1 X90.752 Y58.541
+G0 F7200 X94.163 Y57.08
+G1 F390 X96.185 Y55.058 E1231.09267
+G1 X96.255 Y54.988
+ultimaaaaaa  DEL CORTEEEEEEEEEEE
+fsd
+f
+sd
+f
+ds
+fdsf
+d
+sf
+sd
+f
+sd
+f
+sd
+f
+ds
+fd
+s
+fds
+
+AQUI SEGUIMOOOOOOSSSS
+g
+ds
+g
+ds
+g
+ds
+100000000000000000000000000000
+
+a
+
+wewg
+g
+w
+w
+ge
+gweg
+h
+w
+hw
+
+wh
+w
+h
+weh
+we
+hw
+h
+w
+hw
+h
+FINAL DE LAS CAPAAAS

@@ -1,0 +1,50 @@
+VIDEO IMPORTANT
+https://www.youtube.com/watch?v=-Wrl_G0RYf0&t=195s
+
+
+ 
+22:10:32.658 : OpenGL version:3.1 Mesa 19.2.2
+03:32:00.125 : Imprimiendo capa 56 de 134
+
+
+Resulta que el nozle se tranco y desde antes no imprimio. medimos con un  vernier y la medida es 11,08mm  y buscamos la altura con Z
+
+
+he dejado este codigo.. la ultima linea es el contador de capas que tiene este stl en especifico
+
+
+;FLAVOR:Marlin
+;TIME:28322
+;Filament used: 17.5168m
+;Layer height: 0.2
+;MINX:60.6
+;MINY:50.299
+;MINZ:0.3
+;MAXX:139.4
+;MAXY:149.701
+;MAXZ:26.9
+;Generated with Cura_SteamEngine master
+M140 S95
+M105
+M190 S95
+M104 S230
+M105
+M109 S230
+M82 ;absolute extrusion mode
+G21 ;metric values
+G90 ;absolute positioning
+M82 ;set extruder to absolute mode
+M107 ;start with the fan off
+G28 X0 Y0 ;move X/Y to min endstops
+G28 Z0 ;move Z to min endstops
+G1 Z15.0 F9000 ;move the platform down 15mm
+G92 E0 ;zero the extruded length
+G1 F200 E3 ;extrude 3mm of feed stock
+G92 E0 ;zero the extruded length again
+G1 F9000
+;Put printing message on LCD screen
+M117 Printing...
+G92 E0
+G92 E0
+G1 F2700 E-6.5
+;LAYER_COUNT:134
